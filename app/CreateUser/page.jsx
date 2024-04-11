@@ -1,10 +1,9 @@
-// import UserForm from "../(components)/UserForm";
+import UserForm from "../(components)/UserForm";
 
 const CreateUser = () => {
   return (
     <div>
-      <h1>Only Admins</h1> {/* temp */}
-      {/* <UserForm /> */}
+      <UserForm />
     </div>
   );
 };
